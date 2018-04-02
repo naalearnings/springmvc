@@ -1,0 +1,52 @@
+[1015/113015:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/113532:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/113706:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/113805:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/114024:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/114335:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/114545:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/121046:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/125734:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/125836:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/125926:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/130259:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/130528:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/133227:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/134026:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/134229:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/134713:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/135713:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/141342:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/141436:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/141637:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/142335:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/142744:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/145713:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/150157:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/151048:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/152517:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/153305:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/153622:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/153910:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/154554:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/155121:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/155537:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/155927:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/160335:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/183405:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/185453:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/185805:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/190335:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/190533:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/193005:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/201254:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/201733:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1015/203649:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1031/213202:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1029/174148.030:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/174507.160:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/175052.381:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/175545.875:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/175821.375:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/180332.909:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1029/181102.944:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
